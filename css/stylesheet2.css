@@ -36,6 +36,7 @@ menu {
     display: inline-block;
     width: 10%;
     min-width: 100px;
+    background-color: #5e001d;
 }
 
 .dropdown-item {
@@ -44,6 +45,7 @@ menu {
     margin: 0;
     padding: 0;
     min-width: 2em;
+    background-color: #5e001d;
 }
 .dropdown-content {
     display: none;
@@ -51,6 +53,8 @@ menu {
     border: 1px solid #000;
     margin: 0;
     z-index: 3;
+    background-color: #5e001d;
+
 }
 
 .dropdown-content a {
