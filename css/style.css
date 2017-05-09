@@ -12,6 +12,7 @@ img {
 #body {font-family: coustard;
   font-size: 1em;
   color: #000000;
+  background-color: #5e001d;
   text-align: center;
   line-height: 1.45em;
   letter-spacing: normal;
@@ -28,6 +29,7 @@ img {
 
 h1 {font-family: coustard;
   font-size: 2em;
+  background-color: #5e001d;
   color: #d5cdc5;
   text-align: center;}
 h2 {font-family: coustard;
