@@ -57,10 +57,12 @@ menu {
 
 .dropdown-content a {
     text-decoration: none;
+    background-color: #F0FFFF
 }
 
 .dropdown:hover .dropdown-content {
     display: block;
+    background-color: #F0FFFF
 }
 
 .dropdown-item:hover, .dropdown-item:hover a {
