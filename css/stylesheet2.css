@@ -4,8 +4,9 @@ menu {
   display: block;
   font-family: coustard;
     font-size: 1em;
-    color: #000000;
-    text-align: center;
+      background-color: #5e001d;
+      color: #d5cdc5;
+      text-align: center;
     line-height: 1.45em;
     letter-spacing: normal;
     word-spacing: normal;
