@@ -36,6 +36,11 @@ h2 {font-family: coustard;
   line-height: 1.45;
   letter-spacing: normal;
   word-spacing: normal;}
+  p{
+    font-size: 1em;
+    color: #d5cdc5;
+    text-align: center;}
+  }
 
 #header {line-height: 3.75em;
   letter-spacing: normal;
