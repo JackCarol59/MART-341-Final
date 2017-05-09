@@ -37,6 +37,7 @@ menu {
     width: 10%;
     min-width: 100px;
     color: #8c8e90;
+    padding: 5px;
 }
 
 .dropdown-item {
