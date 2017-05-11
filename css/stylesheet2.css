@@ -3,16 +3,16 @@ menu {
   width: 100%;
   display: block;
   font-family: coustard;
-    font-size: 1em;
-      color: #8c8e90;
-      text-align: center;
-    line-height: 1.45em;
+  font-size: 1em;
+  color: #8c8e90;
+  text-align: center;
+  line-height: 4em;
     letter-spacing: normal;
     word-spacing: normal;
     max-width: 100%;
     height: ;
     margin: 10px;
-    padding: 20px;}
+    padding: 20px;
 }
 
 .menu-container {
