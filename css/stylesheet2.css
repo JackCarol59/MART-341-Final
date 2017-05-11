@@ -72,6 +72,11 @@ menu {
 
 .dropdown-item:hover, .dropdown-item:hover a {
 }
-a:link{
-  color:white
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: green;
 }

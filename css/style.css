@@ -66,6 +66,10 @@ h2 {font-family: coustard;
   margin: 0px;
   padding: 0px;}
 
-  a:link{
-    color:white
+  a:link {
+    color: white;
+  }
+
+  a:visited {
+    color: #d5cdc5;
   }
